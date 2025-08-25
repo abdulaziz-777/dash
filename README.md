@@ -1,5 +1,3 @@
-
-
 📌 Project Overview
 In this project, we performed end-to-end data analysis using Microsoft Excel, including Power Query, Data Modeling, Pivot Tables, and DAX.
 
