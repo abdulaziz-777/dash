@@ -3,6 +3,8 @@ In this project, we performed end-to-end data analysis using Microsoft Excel, in
 
 The analysis focuses on e-commerce data and answers key business questions such as revenue performance, top products, customer behavior, and more.
 
+
+
 📊 Key Features
 Data cleaning and transformation using Power Query
 Creating new calculated columns such as:
@@ -17,6 +19,8 @@ Avg. Delivery Time
 Top Products by Sales
 Sales Trends by Month
 Customer Spending Patterns
+
+
 🧠 Skills Practiced
 Power Query Editor
 Data Modeling (Relationships)
